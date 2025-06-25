@@ -1,5 +1,10 @@
 work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
 2025,SE,FT,Data Product Owner,170000,USD,170000,US,0,US,M
+2025,SE,FT,Engineer,,USD,,US,0,US,M
+2025,SE,FT,Manager,,USD,,US,0,US,M
+2025,,,Data Product Owner,,,,,,,
+2025,,,,,,,,,,M
+2025,SE,FT,AI Architect,,USD,,US,0,US,M
 2025,SE,FT,Data Product Owner,110000,USD,110000,US,0,US,M
 2025,SE,FT,Data Product Owner,170000,USD,170000,US,0,US,M
 2025,SE,FT,Data Product Owner,110000,USD,110000,US,0,US,M
@@ -73147,3 +73152,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,EN,FT,Data Scientist,105000,USD,105000,US,100,US,S
 2020,EN,CT,Business Data Analyst,100000,USD,100000,US,100,US,L
 2021,SE,FT,Data Scientist,7000000,INR,94665,IN,50,IN,L
+2021,SE,,,,EUR,,,,,L
+2020,,,,,,,,,,
+2021,,,,,,,,,,
+2020,,CT,,,,,IN,,,S
+2020,,,Data Scientist,10000,USD,100000,IN,,,
